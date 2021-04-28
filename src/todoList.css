@@ -1,0 +1,16 @@
+.point {
+   font-size: 1.5rem;
+   color: #0250bc;
+   margin-bottom: 0px;
+}
+
+.container {
+   width: 40%;
+   padding: 1rem;
+   border-radius: 8px;
+   background-color: #07a3d3;
+   --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+      0 4px 6px -2px rgba(0, 0, 0, 0.05);
+   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+      var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
